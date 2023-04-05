@@ -17,3 +17,4 @@ NOTE: --global , --system options can be use in last to commands as per the requ
 9] git remote add "name" "link" -->> to push directory to github
 10] git push "name" master -->> to show error
 
+in case we want to push it on github, following steps can be used :
