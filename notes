@@ -1,0 +1,19 @@
+[Othere are few commands to start initially with git or git-hub.
+few of that commands are
+1] git init --> to initialise empty git reposetory
+2] git status --> to check status of code file
+3] git add --> to track all git file in git repo
+4] git commit --> to commit code file or to create versions of code file
+5] git log --> to show timeline where all versions are listed
+6] git configure user.name "name" -->> to change author name
+7] git configure user.email -->> to change registered mail
+
+NOTE: --global , --system options can be use in last to commands as per the requirement and nature of the code.
+
+--global use to change authore name for particular user you are working with e.g, root user.
+--system use to change authore name for all git repo made with all users in the system.
+
+8] git clone "link" -->> to download code from github
+9] git remote add "name" "link" -->> to push directory to github
+10] git push "name" master -->> to show error
+
