@@ -18,3 +18,10 @@ NOTE: --global , --system options can be use in last to commands as per the requ
 10] git push "name" master -->> to show error
 
 in case we want to push it on github, following steps can be used :
+
+first create an account on github.
+then create youre repository graphically on your github account.
+then copy http link of your repository you have created. 
+after that go to the setting option on your profile then click on developer setting (Last)
+then create token from and save it to notepad cuz it wont be visible again on github.
+
